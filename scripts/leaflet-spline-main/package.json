@@ -1,0 +1,51 @@
+{
+  "name": "leaflet-spline",
+  "version": "0.2.0",
+  "description": "Leaflet plugin for drawing bezier splines from polylines and polygons",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "parcel example/index.html --open",
+    "example:build": "parcel build example/index.html --public-url /leaflet-spline/",
+    "predeploy": "npm run example:build",
+    "deploy": "gh-pages -d dist",
+    "checkoutput": "npm pack && tar -xvzf *.tgz && rm -rf package *.tgz"
+  },
+  "files": [
+    "build"
+  ],
+  "dependencies": {
+    "@elfalem/leaflet-curve": "^0.9.2"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.3",
+    "@types/lodash": "4.14.191",
+    "gh-pages": "^3.2.3",
+    "leaflet": "^1.9.3",
+    "parcel-bundler": "^1.6.1",
+    "typescript": "4.4.4"
+  },
+  "peerDependencies": {
+    "leaflet": "^1.9.3"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slutske22/leaflet-spline.git"
+  },
+  "keywords": [
+    "leaflet",
+    "spline",
+    "polyline",
+    "polygon",
+    "bezier"
+  ],
+  "author": "Seth Lutske",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slutske22/leaflet-spline/issues"
+  },
+  "homepage": "https://github.com/slutske22/leaflet-spline#readme"
+}
