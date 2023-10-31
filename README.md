@@ -23,20 +23,9 @@ Open the Mapping Application: Once the repository is cloned, navigate to the pro
 
 Explore the Campus: Start exploring the University of the East campus by interacting with the maps and using the search functionality.
 
-Contributing
-We welcome contributions from the community to improve and expand our navigational mapping system. If you'd like to contribute, please follow these steps:
-
-Fork this repository.
-
-Create a new branch for your feature or bug fix.
-
-Make your changes and commit them.
-
-Push your changes to your fork.
-
-Create a pull request to the main repository.
-
-Our team will review your contribution and work with you to merge it into the project.
+## DEVELOPERS
+MARK MANLICLIC (MAIN)
+VINCE ERFE 
 
 Issues
 If you encounter any issues, bugs, or have suggestions for improvement, please open an issue on our GitHub repository. We appreciate your feedback!
