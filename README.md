@@ -24,7 +24,7 @@ Open the Mapping Application: Once the repository is cloned, navigate to the pro
 Explore the Campus: Start exploring the University of the East campus by interacting with the maps and using the search functionality.
 
 ## DEVELOPERS
-MARK MANLICLIC (MAIN)
+MARK MANLICLIC (MAIN)<br>
 VINCE ERFE 
 
 Issues
