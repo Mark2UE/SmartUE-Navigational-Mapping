@@ -5019,7 +5019,7 @@ else if (selectedOption === 'UE GYM' && selectedOption1 == '(CFAD) COLLEGE OF FI
 var style = document.createElement('style');
 var walk_man = L.icon ({
 iconUrl:'images/red_route.png' ,
-iconSize: [30,30]
+iconSize: [10,10]
 });
 document.head.appendChild(style);
 
