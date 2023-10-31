@@ -1,4 +1,5 @@
 # University of the East Navigational Mapping
+![Logo](images/LOGO.png)
 
 ## Overview
 
