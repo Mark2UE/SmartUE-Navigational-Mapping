@@ -24,14 +24,15 @@ Open the Mapping Application: Once the repository is cloned, navigate to the pro
 Explore the Campus: Start exploring the University of the East campus by interacting with the maps and using the search functionality.
 
 ## DEVELOPERS | THESISMATES
-MARK MANLICLIC (MAIN)<br>
+MARK MANLICLIC <br>
 ALKIAN RAE CHALUANGCO<br>
 VINCE ERFE <br>
 JAY MARK CORDOVA<br>
 RICHMOND LAGMAN <br>
+MA. AMELIA DAMIAN (THESIS ADVISER)
 
-## ISSUES
-If you encounter any issues, bugs, or have suggestions for improvement, please open an issue on our GitHub repository. We appreciate your feedback!
+## DONATE ME
+You can direct donate thru gcash #09751071047
 
 
 ## Sample UI
