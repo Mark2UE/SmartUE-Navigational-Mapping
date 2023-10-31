@@ -29,7 +29,8 @@ ALKIAN RAE CHALUANGCO<br>
 VINCE ERFE <br>
 JAY MARK CORDOVA<br>
 RICHMOND LAGMAN <br>
-Issues
+
+## ISSUES
 If you encounter any issues, bugs, or have suggestions for improvement, please open an issue on our GitHub repository. We appreciate your feedback!
 
 
