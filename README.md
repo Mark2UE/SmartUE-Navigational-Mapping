@@ -42,4 +42,7 @@ Issues
 If you encounter any issues, bugs, or have suggestions for improvement, please open an issue on our GitHub repository. We appreciate your feedback!
 
 
+## Sample UI
 
+![Logo](screenshots/capture_1.JPG)
+![Logo](screenshots/capture_2.JPG)
